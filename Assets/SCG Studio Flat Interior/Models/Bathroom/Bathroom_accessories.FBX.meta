@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: d9c11b29445481149a5acc06ba2206f3
+timeCreated: 1436804343
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bath-glass_closed
+    100002: Bath-glass_opened
+    100004: Bath_liquid_soap
+    100006: //RootNode
+    100008: Cotton_swab_single
+    100010: Cotton_swabs_group
+    100012: Soap
+    100014: Soap-dish
+    100016: Toilet_brush
+    100018: ToothBrush_Green
+    100020: ToothBrush_Orange
+    100022: ToothBrush_Purple
+    100024: ToothBrush_Red
+    100026: Toothpaste
+    100028: Paper_holder_base
+    100030: Paper_holder_cover
+    100032: Toilet_paper
+    400000: Bath-glass_closed
+    400002: Bath-glass_opened
+    400004: Bath_liquid_soap
+    400006: //RootNode
+    400008: Cotton_swab_single
+    400010: Cotton_swabs_group
+    400012: Soap
+    400014: Soap-dish
+    400016: Toilet_brush
+    400018: ToothBrush_Green
+    400020: ToothBrush_Orange
+    400022: ToothBrush_Purple
+    400024: ToothBrush_Red
+    400026: Toothpaste
+    400028: Paper_holder_base
+    400030: Paper_holder_cover
+    400032: Toilet_paper
+    2300000: Bath-glass_closed
+    2300002: Bath-glass_opened
+    2300004: Bath_liquid_soap
+    2300006: Cotton_swab_single
+    2300008: Cotton_swabs_group
+    2300010: Soap
+    2300012: Soap-dish
+    2300014: Toilet_brush
+    2300016: ToothBrush_Green
+    2300018: ToothBrush_Orange
+    2300020: ToothBrush_Purple
+    2300022: ToothBrush_Red
+    2300024: Toothpaste
+    2300026: Paper_holder_base
+    2300028: Paper_holder_cover
+    2300030: Toilet_paper
+    3300000: Bath-glass_closed
+    3300002: Bath-glass_opened
+    3300004: Bath_liquid_soap
+    3300006: Cotton_swab_single
+    3300008: Cotton_swabs_group
+    3300010: Soap
+    3300012: Soap-dish
+    3300014: Toilet_brush
+    3300016: ToothBrush_Green
+    3300018: ToothBrush_Orange
+    3300020: ToothBrush_Purple
+    3300022: ToothBrush_Red
+    3300024: Toothpaste
+    3300026: Paper_holder_base
+    3300028: Paper_holder_cover
+    3300030: Toilet_paper
+    4300000: Soap-dish
+    4300002: Soap
+    4300004: Bath-glass_opened
+    4300006: Cotton_swabs_group
+    4300008: Cotton_swab_single
+    4300010: Bath-glass_closed
+    4300012: ToothBrush_Purple
+    4300014: ToothBrush_Red
+    4300016: ToothBrush_Orange
+    4300018: ToothBrush_Green
+    4300020: Bath_liquid_soap
+    4300022: Toilet_brush
+    4300024: Toothpaste
+    4300026: Paper_holder_cover
+    4300028: Toilet_paper
+    4300030: Paper_holder_base
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

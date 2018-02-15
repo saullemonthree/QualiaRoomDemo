@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: d56362132ee7b0d429e7a6c4e58360fd
+timeCreated: 1430845807
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Object033
+    100002: Object034
+    100004: //RootNode
+    100006: Showercab001
+    100008: Shower_base
+    100010: Shower_doorL
+    100012: Shower_doorR
+    100014: Shower_glass_doorL
+    100016: Shower_glass_doorR
+    100018: Shower_glass_fixed
+    400000: Object033
+    400002: Object034
+    400004: //RootNode
+    400006: Showercab001
+    400008: Shower_base
+    400010: Shower_doorL
+    400012: Shower_doorR
+    400014: Shower_glass_doorL
+    400016: Shower_glass_doorR
+    400018: Shower_glass_fixed
+    2300000: Object033
+    2300002: Object034
+    2300004: Showercab001
+    2300006: Shower_base
+    2300008: Shower_doorL
+    2300010: Shower_doorR
+    2300012: Shower_glass_doorL
+    2300014: Shower_glass_doorR
+    2300016: Shower_glass_fixed
+    3300000: Object033
+    3300002: Object034
+    3300004: Showercab001
+    3300006: Shower_base
+    3300008: Shower_doorL
+    3300010: Shower_doorR
+    3300012: Shower_glass_doorL
+    3300014: Shower_glass_doorR
+    3300016: Shower_glass_fixed
+    4300000: Object033
+    4300002: Showercab001
+    4300004: Object034
+    4300006: Shower_doorL
+    4300008: Shower_glass_doorL
+    4300010: Shower_glass_fixed
+    4300012: Shower_base
+    4300014: Shower_doorR
+    4300016: Shower_glass_doorR
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
